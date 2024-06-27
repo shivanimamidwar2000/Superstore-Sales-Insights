@@ -9,8 +9,8 @@ This repository contains a Power BI dashboard for sales forecasting analysis. Th
 - **Forecast Accuracy Metrics:** Measure and track the accuracy of sales forecasts.
   
 ## Screenshots
-![Dashboard Page 1](images/DashBoard_Page_1.png)
-![Dashboard Page 2](images/DashBoard_Page_2.png)
+![Dashboard Page 1](images/DashBoard Page 1.png)
+![Dashboard Page 2](images/DashBoard Page_2.png)
 
 ## Installation
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
